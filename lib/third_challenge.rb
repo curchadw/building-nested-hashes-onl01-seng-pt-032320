@@ -29,15 +29,22 @@ def third_challenge
    :capulet => {
       #second_level
       :patriarch => {
-        #your key/value pairs here
+        #third_level
+        :name => "Lord Capulet",
+        :age => "50"
         },
         #second_level
       :matriarch => {
-        #your key/value pairs here
+        #third_level
+       :name => "Lord Capulet",
+       :age => "51"
         },
         #second_level
       :heroine => {
-        #your key/value pairs here
+        #third_level
+       :name => "Juliet",
+       :age => "15",
+       :status => "alive"
         },
         #second_level
       :heroine_friends => []

@@ -1,5 +1,6 @@
 def second_challenge
   epic_tragedy = {
+    #first_level
     :montague => {
       #second_level
        :patriarch =>{},
@@ -7,6 +8,7 @@ def second_challenge
        :hero => {},
        :hero_friends =>{}
       }, 
+    #first_level
     :capulet => {
       #second_level
        :patriarch =>{},

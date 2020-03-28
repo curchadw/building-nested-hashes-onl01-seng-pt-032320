@@ -36,7 +36,7 @@ def third_challenge
         #second_level
       :matriarch => {
         #third_level
-       :name => "Lord Capulet",
+       :name => "Lady Capulet",
        :age => "51"
         },
         #second_level
